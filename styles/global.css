@@ -131,3 +131,19 @@ h3 {
         color: var(--gray-200);
     }
 }
+.contact-bg {
+  background-image: url(../assets/Background_Contacts.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  max-width: 1366px;
+  min-height: 787px;
+  margin: 0 auto;
+  height: 787px;
+  padding: 80px 24px;
+  box-sizing: border-box;
+}
